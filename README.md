@@ -1,2 +1,2 @@
 # taogei
-csc309 individual project, a web app that allows users to submit project ideas to get attention for any potential investors.
+Taogei is a crowd funding web application that allows users to pitch project ideas to potential backers and investors.
